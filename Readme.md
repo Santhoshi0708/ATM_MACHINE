@@ -43,14 +43,11 @@ To run this application, you need the following libraries:
 - View transaction history
 
 Transactions are stored in session state.
-## Sample Output
-
-![Sample Output](ATM_output.png)
 
 ## 🔗 Follow us
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumarkonathala/)
+[![linkedin](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)
 
 ## Feedback
-If you have any feedback, please reach out to us at konathalaanilkumar143@gmail.com
+If you have any feedback, please reach out to us at santhu2002.kothapalli@gmail.com
 
 Enjoy banking with our ATM Machine!
