@@ -44,6 +44,10 @@ To run this application, you need the following libraries:
 
 Transactions are stored in session state.
 
+## Sample Output
+you can check the output here at 
+https://atm-machine-santhoshi0708.streamlit.app/
+
 ## 🔗 Follow us
 [![linkedin](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)
 
